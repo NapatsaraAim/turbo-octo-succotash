@@ -1,3 +1,7 @@
 # turbo-octo-succotash
-min första main
-read what i wrote!
+skapa ny password input
+<<<<<<< HEAD
+password thanks
+=======
+Am i at bugg file?
+>>>>>>> refs/remotes/origin/password
